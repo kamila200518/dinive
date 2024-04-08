@@ -121,7 +121,11 @@ header h1 {
     color:black;
     font-size: 96px;
 }
-
+.connect__a__i{
+    padding-top: 20px;
+    font-size: 15px;
+    color: #565251;
+}
 
 header .box {
     display: flex;
@@ -206,6 +210,11 @@ header .glav:not(:hover) {
 }
 .b2 .container a{
 color: black;
+}
+.aa{
+    font-size: 15px;
+    margin-left: auto;
+    color: #565251;
 }
  .name {
     font-weight: 700;
